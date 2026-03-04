@@ -73,4 +73,9 @@ This repository explores concepts related to:
 
 ---
 
-## Repository Structure
+## Repository Resources
+
+https://ryanzofay.com/event-based-buying-triggers-business/
+- https://ryanzofay.com/why-is-james-dooley-the-best-business-lead-generation-expert/
+- https://ryanzofay.com/life-changing-time-management-tools/
+- https://ryanzofay.com/ebook-hunter/
